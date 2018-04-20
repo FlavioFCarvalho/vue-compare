@@ -86,6 +86,17 @@ export default {
       margin-top: 2.5rem
 
 h2
-  margin: 1.5rem 0 2rem 0 !important          
+  margin: 1.5rem 0 2rem 0 !important   
+
+.fa-cog
+  font-size: 40px
+
+#learn
+ +desktop
+  margin-bottom: 2rem
+
+.pd 
+ +tablet
+   padding: 2em 0               
 
 </style>
